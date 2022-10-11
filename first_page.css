@@ -1,3 +1,14 @@
 ul {
     list-style-type:upper-latin;
 }
+html {
+    border-style:double;
+    border-color:green;
+    border-width:2rem;
+    background-color: greenyellow;
+
+}
+#span1 {
+color: whitesmoke;
+font-family:'Ink free';
+}
