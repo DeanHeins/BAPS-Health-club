@@ -2,22 +2,30 @@ ul {
     list-style-type:circle;
 }
 html {
-    border-style:double;
-    border-color:green;
-    border-width:2rem;
-    background-color: greenyellow;
+    border-color:purple;
+    border-width:16px;
+    background-color:plum;
     font-weight:bolder;
     font-size:23px;
+    border-style:solid;
+
 
 }
 body {
-color: black;
+color: purple;
 font-family:'Ink free Black';
 
 }
 #credits{
-    color:black;
+    color:purple;
     margin-left:20cm;
     margin-top:5cm;
     font-family: 'Arial Black';
+}
+.b1{
+    background-color:purple;
+    padding: 16px 34px;
+    border-radius: 15px;
+    color:white;
+    
 }
