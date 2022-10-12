@@ -1,5 +1,5 @@
 ul {
-    list-style-type:upper-latin;
+    list-style-type:circle;
 }
 html {
     border-style:double;
@@ -11,12 +11,12 @@ html {
 
 }
 body {
-color: yellowgreen;
-font-family:'Ink free black';
+color: black;
+font-family:'Ink free Black';
 
 }
 #credits{
-    color:limegreen;
+    color:black;
     margin-left:20cm;
     margin-top:5cm;
     font-family: 'Arial Black';
