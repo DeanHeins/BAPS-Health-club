@@ -1,0 +1,18 @@
+header {
+    font-family:'Comic sans';
+    font-size: 16px;
+    font-weight:bolder;
+    font-style:italic
+
+}
+ul {
+    list-style:circle
+}
+body {
+    border-style:solid;
+    border-width:2rem;
+    border-color:purple;
+    color:purple;
+    background-color: plum;
+    font-family:'Ink free'
+}
