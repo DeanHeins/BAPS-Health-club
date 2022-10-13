@@ -1,14 +1,14 @@
 ul {
     list-style-type:circle;
 }
-html {
+section {
     border-color:purple;
-    border-width:16px;
+    border-width:34px;
     background-color:plum;
     font-weight:bolder;
     font-size:23px;
     border-style:solid;
-
+    margin:2rem;
 
 }
 body {
