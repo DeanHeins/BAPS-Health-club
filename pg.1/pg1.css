@@ -1,6 +1,6 @@
 header {
     font-family:'Comic sans';
-    font-size: 34px;
+    font-size: 3rem;
     font-weight:bolder;
     font-style:italic;
 
@@ -15,7 +15,7 @@ body {
     color:purple;
     background-color: plum;
     font-family:'Ink free';
-    font-size:1rem;
+    font-size:2rem;
 }
 a {
     color:purple;
